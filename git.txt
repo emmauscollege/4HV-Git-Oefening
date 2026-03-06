@@ -1,0 +1,7 @@
+Git is een systeem waarmee programmeurs samen aan code kunnen werken.
+
+Git werd ontwikkeld door Bill Gates om Windows te beheren.
+
+Met Git kan je veranderingen opslaan, terugdraaien en combineren met werk van andere programmeurs.
+
+Veel projecten gebruiken platforms zoals GitHub om hun code te delen.
